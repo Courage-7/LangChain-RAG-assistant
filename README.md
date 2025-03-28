@@ -5,14 +5,18 @@ A powerful Retrieval-Augmented Generation (RAG) system for document search, ques
 - Framework : LangChain for orchestrating the RAG pipeline
 - UI : Streamlit for interactive web interface
 - Embedding Model : Sentence Transformers (all-MiniLM-L6-v2)
-- Vector Database : ChromaDB for efficient similarity search
+- Vector Database : FAISS for efficient similarity search
 - LLM : OpenAI GPT-3.5 Turbo for answer generation
+
 - Document Processing :
   - PyPDF for PDF documents
   - Unstructured for Word and Excel documents
   - Built-in parsers for TXT and CSV files
+
 - Evaluation : Custom metrics including ROUGE, BERTScore, and semantic similarity
+
 - Configuration : YAML-based configuration with dotenv for environment variables
+
 - Visualization : Matplotlib and Pandas for metrics visualization
 -
   ## Project Structure
