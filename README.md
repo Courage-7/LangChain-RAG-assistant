@@ -1,5 +1,5 @@
 # Comprehensive RAG Document Assistant
-A powerful Retrieval-Augmented Generation (RAG) system for document search, question answering, and evaluation, built with state-of-the-art NLP technologies.
+A Retrieval-Augmented Generation (RAG) system for document search, question answering, and evaluation, built with state-of-the-art NLP technologies.
 
 ## Technology Stack
 - Framework : LangChain for orchestrating the RAG pipeline
